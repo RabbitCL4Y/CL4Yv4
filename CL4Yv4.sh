@@ -782,7 +782,7 @@ fi
 if [ $bro = 54 ] || [ $bro = 54 ]
 then
 clear
-echo $red"installing Fake Deface'
+echo $red"installing Fake Deface"
 sleep 1
 git clone https://github.com/MR057/master-fake
 cd ~/master-fake
